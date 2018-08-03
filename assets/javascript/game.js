@@ -37,7 +37,3 @@ document.onkeyup = function (event) {
     document.getElementById("alreadyG").innerHTML = "Letters Already Guessed " + alreadyG;
 
 }
-  
-
-
-
